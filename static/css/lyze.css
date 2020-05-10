@@ -1,0 +1,15 @@
+
+*{
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+
+}
+
+.data{
+border:2px solid green;
+
+}
+h1{
+font-size:60px;
+}
